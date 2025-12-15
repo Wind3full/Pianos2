@@ -66,6 +66,7 @@ jobs:
         with:
           app-name: 'pianos2'
           slot-name: 'Production'
-          package: .
+          package: ./public
 
           
+
